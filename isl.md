@@ -1,6 +1,6 @@
 # Estimating f
 
-## f and terms
+## f and e
 
 general form function Y = f(X) + e
 
@@ -10,7 +10,7 @@ e is a random error term independent of X with a mean of 0.
 
 e, is composed of reducible and irreducible error. Reducible error can be reduced with better statistical methods for the problem. Irreducible error includes unmeasured variables and unmeasurable variability. Learn how to reduce the reducible error. Prediction limited by irreducible error which is unknown in practice.
 
-## predict and infer
+## Predict and infer
 
 Statistical learning is finding f to either make a prediction or make an inference.
 
@@ -29,3 +29,4 @@ Parametric models assume a certain shape or form for f. Less data is needed than
 Estimate parameters for f. Real data isn't actually of the form of the function we choose.
 More flexible model can be chosen to accomodate more possible forms, but this usually
 means more parameters need to be predicted and can lead to overfitting.
+
