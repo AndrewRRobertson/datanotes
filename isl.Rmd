@@ -17,9 +17,9 @@ Statistical learning is finding f to either make a prediction or make an inferen
 Prediction is a black box.
 
 Infer:
-1. Which predictors are important?
-2. What is the relationship? Positive/negative correlation, etc.
-3. Linear or non-linear?
+* Which predictors are important?
+* What is the relationship? Positive/negative correlation, etc.
+* Linear or non-linear?
 
 ## Parametric and non-parametric
 
